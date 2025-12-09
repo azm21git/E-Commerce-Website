@@ -17,3 +17,5 @@
 - **Checkout Process**: Seamless checkout with options for shipping and payment methods.
 - **Razorpay Integration**: Secure payment processing through Razorpay.
 - **Database Seeder**: Easily populate the database with sample products and users.
+  
+  
